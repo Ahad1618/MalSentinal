@@ -112,7 +112,3 @@ pytest tests/ -v --cov=src --cov-report=term-missing
 | VirusShare | malicious | Free registration required |
 
 ---
-
-## License
-
-MIT License — CS 2005 Academic Project
